@@ -33,3 +33,6 @@ Mi nombre es ***Mingu***
 
 | Encabezado1 | Encabezado2 | Encabezado 3|
 |---------- |:------------:|--------:|
+| Item1 | Bolgrafos | 1000 euro|
+| Item2 | grapadors | 20 euro |
+| Item3 | lapis | 150 euro|
