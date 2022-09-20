@@ -10,4 +10,4 @@ _Este texto aparece en cursiva_
 **Este texto aparece en negrita**
 __Este texto aparece en negrita__
 
-Mi nombre es *Turbo* y con esta mano me mxasturb*
+Mi nombre es ***Mingu***
