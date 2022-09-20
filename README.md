@@ -31,4 +31,5 @@ Mi nombre es ***Mingu***
 
 ![goku bald](png-transparent-goku-bald.png)
 
-
+| Encabezado1 | Encabezado2 | Encabezado 3|
+|---------- |:------------:|--------:|
