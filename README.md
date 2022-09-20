@@ -29,5 +29,6 @@ Mi nombre es ***Mingu***
 [link](URL "texto alternativo")
 [Enlace a wikipedia](https://es.wikipedia.org "Enlace a wikipedia")
 
+![goku bald](png-transparent-goku-bald.png)
 
 
