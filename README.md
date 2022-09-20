@@ -11,3 +11,20 @@ _Este texto aparece en cursiva_
 __Este texto aparece en negrita__
 
 Mi nombre es ***Mingu***
+
+* dsa
+* dnsa
+
+- ds
+- dsa
+
+````html
+<html>
+  <head>
+  </head>
+</html>
+````
+
+
+[link](URL "texto alternativo")
+[Enlace a wikipedia](https://es.wikipedia.org "Enlace a wikipedia")
